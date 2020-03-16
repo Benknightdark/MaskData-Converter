@@ -1,0 +1,22 @@
+{
+  "name": "yocc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/json2csv": "^4.5.1",
+    "@types/mssql": "^6.0.0",
+    "@types/node": "^13.9.1",
+    "@types/node-fetch": "^2.5.5",
+    "guid-typescript": "^1.0.9",
+    "json-2-csv": "^3.6.1",
+    "mssql": "^6.1.0",
+    "node-fetch": "^2.6.0",
+    "ts-node": "^8.6.2"
+  }
+}
