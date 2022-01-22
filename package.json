@@ -16,7 +16,7 @@
     "guid-typescript": "^1.0.9",
     "json-2-csv": "^3.6.1",
     "mssql": "^6.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "ts-node": "^8.6.2"
   }
 }
